@@ -4,6 +4,8 @@ We follow [Ansible Code of Conduct](https://docs.ansible.com/ansible/latest/comm
 
 If you are a committer, also refer to the [collection's committer guidelines](https://github.com/ansible-collections/community.general/blob/main/commit-rights.md).
 
+Manuel Lukas
+
 ## Issue tracker
 
 Whether you are looking for an opportunity to contribute or you found a bug and already know how to solve it, please go to the [issue tracker](https://github.com/ansible-collections/community.general/issues).
